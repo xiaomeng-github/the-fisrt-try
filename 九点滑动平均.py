@@ -32,3 +32,5 @@ plt.plot(np.arange(39),a_9_same,color='g')
 plt.plot(np.arange(4,35),a_9_valid,color='r')
 plt.plot(a,c='k')
 plt.show()
+
+#你好，请问成功了吗
